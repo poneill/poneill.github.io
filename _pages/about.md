@@ -11,16 +11,16 @@ redirect_from:
 I'm a computational scientist interested in applying physical and
 statistical methods to biological problems.
 
-I'm currently Senior ML engineer at [Projecy
-Bystro](https://github.com/bystrogenomics/bystro).  Previously I
-worked in small molecule drug discovery at DeepCure, and NLP R&D for
-Kensho.
+I'm currently a Senior ML Engineer [Wingo
+Lab](https://www.wingolab.org/) at Emory University, working on
+[Project Bystro](https://github.com/bystrogenomics/bystro).
+Previously I worked on small molecule drug discovery at DeepCure, NLP
+R&D for Kensho, and financial data science for Tyche.
 
-Before transitioning to industry, I was a research assistant in the <a
+Previously I was a research assistant in the <a
 href="http://compbio.umbc.edu">Erill Lab</a> at UMBC, where I
-completed my Ph.D. in biology in 2016.  My research centered broadly
-on understanding how bacterial cells compute their metabolism, and
-specifically on biophysical models of transcription factor / binding
-site co-evolution.
+completed my Ph.D. in Biological Sciences.  My research centered broadly on
+information-theoretical models of transcription factor / binding site
+co-evolution.
 
 In my spare time I enjoy lifting, cycling, woodworking and early music.
