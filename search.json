@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "questions.html",
+    "href": "questions.html",
+    "title": "Questions",
+    "section": "",
+    "text": "How much does mentality differ across times and places? Why do records left by pre-modern peoples sometimes seem so intelligible to us, and sometimes so alien?\nWhy is the modern world so measured / quantified, and what effect has that had on our own mentality?\nThe Romans managed to run the Meditteranean and half of Europe without finding much use for maps in the modern sense. What does that tell us about Roman mentality, and how many seemingly essential cognitive operations are in fact optional?\nWhy do we consider social science to be our primary or only means of uncovering truths about the human person, when almost none of our personal knowledge of the social world comes from it?\nHow can folk theories be so effective, even when their underlying ontologies are nothing like (what we believe to be) the correct theories?\nWhat are agents, in the broadest sense?\nLooking upwards, how do agents compose into teams, firms, or countries?\nLooking downwards, how do we identify parts of systems as agents, when physics itself makes no distinctions between agent, environment and boundary?\nWhat is the most general “theory of zooming out”? Renormalization group gives us very nice answers for certain simple systems, but effective coarse-graining seems to happen much more often than RG can explain why.\nIn physics, the correct coarse-grained variables typically just fall out of the math of the microscopic theory. But in social orgs, the leaders of an org often have to choose the variables themselves, and then react to them. How does that work at all? What tends to make it go well or poorly?\nWhen does fast feedback work well (learning, adaptation), and when does it cause things to go horribly awry (goodharting, wireheading, addiction)?\nWhy is Goodhart’s law so prevalent? What institutions have best resisted it / adapted to it? What else could we do about it?\n\nWhy is it so common for institutions to shed their original missions and acquire new ones, and how do the few exceptions manage to keep their original purposes?\nBehaviorism is not well-regarded as an academic psychological theory, but it is the de facto working theory of consumer tech. If anything, it seems to work too well there. Is this a contradiction?\nWhat is the most general theory of info elicitation, the design of mechanisms where truth-telling is the dominant strategy?\nWhy is modern architecture so ugly?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Patrick O’Neill",
+    "section": "",
+    "text": "I’m interested in applying computational, physical, and biological methods to problems in AI alignment. I’m particularly interested in the questions of how complex systems can admit simple effective descriptions.\nPreviously I was a founding ML engineer at Suno, and over the course of my career I’ve worked on a variety of problems in drug discovery, genomics and finance. Before that, I completed a Ph.D. in Biological Sciences at UMBC, working with Ivan Erill on information-theoretic models of transcriptional regulation.\nMore generally, I’m interested in philosophy, computational statistics, intellectual history, institutional design and applied mathematics. I enjoy singing Renaissance polyphony, and my Erdős number is, undeservedly, 3."
+  },
+  {
+    "objectID": "index.html#recent-writing",
+    "href": "index.html#recent-writing",
+    "title": "Patrick O’Neill",
+    "section": "Recent Writing",
+    "text": "Recent Writing\n\nOn Medieval Vibecooking: what medieval recipes tell us about the history of quantification"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Please see a full list on Google Scholar."
+  },
+  {
+    "objectID": "publications.html#selected-papers",
+    "href": "publications.html#selected-papers",
+    "title": "Publications",
+    "section": "Selected Papers",
+    "text": "Selected Papers\n\nSpeech Recognition\nSPGISpeech: 5,000 hours of transcribed financial audio for fully formatted end-to-end speech recognition\nPK O’Neill, V Lavrukhin, S Majumdar, et al. (2021)\narXiv · Dataset\n\n\nComputational Biology\nInformational requirements for transcriptional regulation\nPK O’Neill, R Forder, I Erill. Journal of Computational Biology 21(5), 2014\nPubMed\nA Bayesian inference method for the analysis of transcriptional regulatory networks in metagenomic data\nET Hobbs, T Pereira, PK O’Neill, I Erill. Algorithms for Molecular Biology 11(19), 2016\nPubMed\nscnRCA: a novel method to detect consistent patterns of translational selection in mutationally-biased genomes\nPK O’Neill, M Or, I Erill. PLoS One 8(10), 2013\nPubMed\n\n\nImmunoinformatics\nBIITE: a tool to determine HLA class II epitopes from T cell ELISpot data\nL Boelen, PK O’Neill, et al. PLoS Computational Biology 12(3), 2016\nPubMed"
+  }
+]
